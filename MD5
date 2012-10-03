@@ -1,0 +1,15 @@
+686873967dafa149a1423ed41dda7813 *DESCRIPTION
+a8fef2c22a2c52ba16ff706e1ff04dd9 *NAMESPACE
+a8c01393e8482e945aefb22cb24a743a *R/NumConv.R
+e7523a0d2fe269eb33bc230cc4208b1e *R/NumDeconv.R
+b763ee597bfbec62d8e0bd08d43b7fbe *R/RivivcA.R
+bc87680c95a39b1269ceff7ab8792035 *data/impulse.txt.gz
+8e956d217824c49658df84d75cc2c23b *data/input.txt.gz
+b34a2f5da2731f800ba4309465ec0345 *data/resp.txt.gz
+53961b400c7f1bafe22a62b2f66b997a *man/NumConv.Rd
+ad31912c377d6fe82e648472d121be5b *man/NumDeconv.Rd
+a621be8533d42be8edb3d6d902e37139 *man/Rivivc-package.Rd
+d2197019260eca3076027f63900c6c0d *man/RivivcA.Rd
+6c0a1bcdf17c4c817438788dabfeb955 *man/impulse.Rd
+a5b78e10bb53aa28f3b26e4a68746c61 *man/input.Rd
+4ac674ca550e2a9dcb194a8d88ec2abf *man/resp.Rd
