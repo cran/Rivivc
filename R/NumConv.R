@@ -45,7 +45,7 @@ impulse1<-pchip(time_imp_orig,impulse_orig[,2],time)
 
 PKconvolution <- function(input,impulse,lk_row){
 # compute convolution for unequal time steps
-# based on F. Langenbucher / European Journal of Pharmaceutics and Biopharmaceutics 56 (2003) 429–437
+
 
 
 convolution<-vector(length=lk_row)

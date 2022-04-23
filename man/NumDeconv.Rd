@@ -7,7 +7,7 @@ Numerical deconvolution method
 Numerical deconvolution method based on the convolution and the \code{optim()} BFGS method to find in vivo absorption profile through the convolution approach. The function works iteratively with the cumulative in vivo absorption profile optimization performed by the BFGS method in regard to the convolved PK profile and its proximity to the real known p.o. profile.
 }
 \usage{
-NumDeconv(impulse.matrix, resp.matrix, dose_iv=NULL, dose_po=NULL, 
+NumDeconv(impulse.matrix,resp.matrix,dose_iv=NULL,dose_po=NULL, 
 	    deconv.timescale = NULL, explicit.interpolation = 20, 
 	    implicit.interpolation = 10, optim.maxit = 200)
 }

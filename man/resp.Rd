@@ -5,6 +5,6 @@
 \description{
 This data set gives the time and concentration of the hypothetical drug after its oral administration. This is the simulated data set.
 }
-\usage{resp}
+\usage{data(resp)}
 \format{matrix}
 \keyword{datasets}

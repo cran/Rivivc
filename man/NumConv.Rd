@@ -7,7 +7,8 @@ Numerical convolution
 Performs numerical convolution independent of the sampling points but requiring the same timescale of the input and impulse profiles. 
 }
 \usage{
-NumConv(impulse.matrix, input.matrix, conv.timescale = NULL, explicit.interpolation = 1000)
+NumConv(impulse.matrix,input.matrix,conv.timescale = NULL,
+    explicit.interpolation = 1000)
 }
 \arguments{
   \item{impulse.matrix}{

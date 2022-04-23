@@ -79,7 +79,8 @@ accur_explic<-20
 accur_implic<-5
 
 #run deconvolution
-result<-RivivcA(input_mtx,impulse_mtx,resp_mtx,explicit.interp=accur_explic,implicit.interp=accur_implic)
+result<-RivivcA(input_mtx,impulse_mtx,resp_mtx,
+    explicit.interp=accur_explic,implicit.interp=accur_implic)
 
 summary(result$regression)
 

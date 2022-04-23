@@ -1,3 +1,6 @@
 export("RivivcA")
 export("NumConv")
 export("NumDeconv")
+importFrom("stats","lm","optim")
+importFrom("signal","pchip")
+importFrom("compiler","cmpfun")
